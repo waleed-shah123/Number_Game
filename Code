@@ -1,0 +1,21 @@
+import numpy as np
+
+step1 = input('Think any number and Type OK when done: ')
+
+    
+step2 = input('add the same number in the number you think earlier and Type OK when done: ')
+
+step3 = np.random.randint(2,9,1)
+
+print(step3)
+
+step4 = input('add the above number in your Ans and Type OK when done:')
+
+step5 = input('Divided the answer with 2 and Type OK when done:')
+
+step6 = input('also minus the same number you add in the second step and Type OK when done: ')
+
+print(' ')
+print ('Now')
+print(int(step3) / 2 )
+print('Is The Remaing Number' )
