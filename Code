@@ -18,4 +18,4 @@ step6 = input('also minus the same number you add in the second step and Type OK
 print(' ')
 print ('Now')
 print(int(step3) / 2 )
-print('Is The Remaing Number' )
+print('Is The Remaining Number' )
